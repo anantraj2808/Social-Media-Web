@@ -79,7 +79,7 @@ const AddPost = () => {
               alt="Anant Raj"
               src="https://pps.whatsapp.net/v/t61.24694-24/312290331_549719903418158_3724839605484474866_n.jpg?ccb=11-4&oh=01_AdQXEiA7hML59J2XqQDP6yLmtImqY5al5-5431FJUhqMWg&oe=640B0EEA"
             />
-            <Typography color={"text.primary"} fontWeight = "500">Somya Sharma</Typography>
+            <Typography color={"text.primary"} fontWeight = "500">Anant Raj</Typography>
           </Userbox>
           <TextField
             sx={{ width: "100%", marginBottom: "10px" }}
